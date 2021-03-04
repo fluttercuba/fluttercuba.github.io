@@ -12,4 +12,4 @@ jobs:
           channel: stable
       - run: flutter pub get
       - run: flutter test
-      - run: flutter build web
+      - uses: erickzanardo/flutter-gh-pages@v2
