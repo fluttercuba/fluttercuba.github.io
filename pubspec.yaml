@@ -35,4 +35,4 @@ flutter_native_splash:
   color: "#232323"
   android_gravity: fill
   ios_content_mode: scaleToFill
-  web_image_mode: contain
+  web: false
